@@ -1,5 +1,5 @@
 #### Include an inline screenshot of your codeschool's points from the profile page:
-<img src="http://imgur.com/i0zm3qs"/>
+<a href="http://imgur.com/i0zm3qs"><img src="http://i.imgur.com/i0zm3qs.jpg" title="Codeschool points" /></a>
 <!-- Modify the Markdown to include your answers. Don't delete the questions! -->
 
 ##QUIZ
