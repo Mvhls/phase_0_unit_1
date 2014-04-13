@@ -27,4 +27,4 @@
   * Explain how you would find out this information, and list the URL of offending image here and how big it is.
  (under network, sort the waterfall by type, and then find the largest image by size)(the above img is 321 bytes)
 
-* Test the www.ticketswizard.com website with google's [PageSpeed Insights](http://www.ticketswizard.com/).  (You can also download the chrome plugin).  What is the lowest hanging fruit to optimize the website?  How many kilobytes of data can be eliminated?
+* Test the www.ticketswizard.com website with google's [PageSpeed Insights](http://www.ticketswizard.com/).  (You can also download the chrome plugin).  What is the lowest hanging fruit to optimize the website?  How many kilobytes of data can be eliminated?(The image sizes can be compressed by a total of 39%. This will increase the speed of loading images. A total of 886KiB can be eliminated)
