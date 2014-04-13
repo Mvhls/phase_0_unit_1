@@ -1,7 +1,7 @@
 # U1.W2: Chrome Dev Tools Challenge Reflection
 
-* Describe the Document Object Model? What about it makes sense to you? What doesn't? What seems good and bad about it?
-* How did using Chrome Web Tools to look at your site and a wordpress.com site compare?
-* Did you find Chrome Web Tools fun, helpful, or a pain to work with?
-* Did you have an "aha" moments or were any concepts solidified?
-* Did you find any resources on your own that helped you better understand a topic? If so, please list it.
+* Describe the Document Object Model? What about it makes sense to you? What doesn't? What seems good and bad about it?(The document object model is a tool used to structure and navigate your html and css documents. It is designed to be allowed to work with many programming languages. It is a different way of analysing a web page and immediately seeing the changes. I like how highlighting an object in the page can lead you directly to the code, and vice versa. Since I am still new to programming, I am still trying to understand how to implement javscript and other languages.)
+* How did using Chrome Web Tools to look at your site and a wordpress.com site compare? (The basic design of a blog at wordpress was the same as mine, but more complex. The head and body had a large amount of divs, classes and ids. I was able to understand most of the ideas of the website while using chrome dev tools. It is fantastic for analysiis of other websites. 
+* Did you find Chrome Web Tools fun, helpful, or a pain to work with?(at first, cdt was frustrating to use, but that was a matter of learning the functions. Once I grasped the basic idea, it became really helpful to understand how a website was ordered. It is also useful in building some of my own projects, but can be a pain to work with. I do not like how saving works, and if I forgot to save and accidently navigate away from the page, I loose everyhting I changed. I can see CDT being a great tool once I have more experience working with it.)
+* Did you have an "aha" moments or were any concepts solidified? (Learning how to use CSS together with html was difficult at first. It was different than working with the documents separately. Beginning to understand the CSS breadcrumbs was probably my biggest "aha" moment. I was accidently adding CSS inline to the html file before I realized I can navigate to the most specific element in css.
+* Did you find any resources on your own that helped you better understand a topic? If so, please list it. 
