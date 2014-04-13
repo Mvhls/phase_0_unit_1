@@ -1,6 +1,6 @@
 # U1.W2: Thinking About Time Reflection
 
-* What is your biggest time management challenge with during Phase 0? (A lot of my time was spent on reading material. I like to read everything in order before I get my hands dirty and start a challenge. Sometimes this is not the best way to learn the material, especially if it is better to learn by doing. 
+* What is your biggest time management challenge with during Phase 0? (A lot of my time was spent on reading material. I like to read everything in order before I get my hands dirty and start a challenge. Sometimes this is not the best way to learn the material, especially if it is better to learn by doing.)
 * How will you combat that? (From now on, I will try to just skim most of the reading material so I know where to find the information when I need it. Then, I can immediately start on the exercises and use the reading material as a reference when I am stuck.)
 * What techniques will you try? (I would like to try and create better habits for myself. This type of skill is different from what I usually learn. It is still early in phase 0, so this is a good time to create good habits for learning this type of material so I can be ready and sucessful for further learning.)
 * What is your overall plan for Phase 0? (Since a lot of this learning is hands on, I would like to start a habbit of comitting one or two updates to my web page on github each day. Not just content, but something new that I have learned from the challenges. I feel if I can stick to that plan, I will be able to learn and progress faster.)
