@@ -4,7 +4,7 @@
 
 ##QUIZ
 * Explain which tabs support the following actions and how.
-  * Realtime editing of HTML and CSS 
+  * Realtime editing of HTML and CSS
   * Javascript Debugging
   * Performance Optimization 
 
