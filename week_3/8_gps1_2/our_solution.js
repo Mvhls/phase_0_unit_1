@@ -1,8 +1,8 @@
 // GPS 1.2 - JavaScript
 
 // YOUR FULL NAMES:
-//  1.
-//  2.
+//  1.Matthew Hein
+//  2.Andy Principe
 
 
 // 1. "YOU SIGNED... WHO?!"
