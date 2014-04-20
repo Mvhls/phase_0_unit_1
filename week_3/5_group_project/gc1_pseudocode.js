@@ -1,3 +1,9 @@
+//Story: Ajay Singh
+//Pseudocode: Matthew Hein
+//Code: Hing Hyunh
+//Refactor: Tim Howard
+
+
 //----- PSEUDOCODE -----
 
 // Addition function:
