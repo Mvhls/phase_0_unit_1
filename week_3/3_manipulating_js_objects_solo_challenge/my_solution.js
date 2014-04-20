@@ -45,14 +45,30 @@ var terah = {
 
 // __________________________________________
 // Write your code below.
+var terah = {
+  name: "Terah",
+  age: 32,
+  height: 66,
+  weight: 125,
+  hairColor: "brown",
+  spouse: "Adam", 
+  children = {
+  	carson = {
+  		name: "Carson"
+  	}
+  	carter = {
+  		name: "Carter"
+  	}
+  	colton = {
+  		name: "Colton"
+  	}
+  }
+}
 
-
-
-
-
-
-
-
+var adam = {
+	name: "Adam",
+	children = terah(children)
+}
 // __________________________________________
 // Reflection: Use the reflection guidelines
 // 
