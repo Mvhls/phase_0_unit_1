@@ -24,7 +24,7 @@ members = ["John", "Matthew", "Jeff", "Mary"]
 var secretNumber = 7;
 var password = "just open the door";
 var allowedIn = false;
-members = ["John", "Matthew", "Jeff", "Mary"];
+var members = ["John", "Matthew", "Jeff", "Mary"];
 
 // __________________________________________
 // Reflection: Use the reflection guidelines to write a reflection here. 
