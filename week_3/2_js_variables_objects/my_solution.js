@@ -4,27 +4,27 @@
 
 
 // Pseudocode
-// 
-// 
-// 
-// 
+// creat variable secretNumber = 7
+// create variable password = "just open the door"
+// create variable allowedIn = false
+// create a variable members = ["John", anything, anything, "Mary"]
 
 
 // __________________________________________
 // Write your code below.
 
-
-
-
-
-
+var secretNumber = 7
+var password = "just open the door"
+var allowedIn = false
+members = ["John", "Matthew", "Jeff", "Mary"]
 
 // __________________________________________
 // Refactored Code: Include a refactored version (or justification of your original code) here. 
 
-
-
-
+var secretNumber = 7;
+var password = "just open the door";
+var allowedIn = false;
+members = ["John", "Matthew", "Jeff", "Mary"];
 
 // __________________________________________
 // Reflection: Use the reflection guidelines to write a reflection here. 
