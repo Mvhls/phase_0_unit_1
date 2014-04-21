@@ -69,13 +69,14 @@ terah.children.colton = {name:"Colton"};
 adam.children = terah.children;
 // __________________________________________
 // Reflection: Use the reflection guidelines
-// 
-// 
-// 
-// 
-// 
-// 
-
+/*
+This challenge was more complicated than the initial one. I was confused in the beginning when it mentioned
+"object literal notation". I learned how to change the existing properties without rewriting the existing 
+variable, and it was a very useful skill. I tried to pass the steps one at a time in this challenge. I
+struggled on a few of the tests, step 6 specifically. I had the name adam in quotes, but I then realized 
+that it was a variable, and not a string. Most of the other steps were simple after I understood the general
+idea of the challenge.
+*/
 
 // __________________________________________
 // Driver Code:  Do not alter code below this line.
