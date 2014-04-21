@@ -168,5 +168,9 @@ this.attackXY(47, 54);
  
 // Reflection:
 /*
-This exercise was helpful to learn pseudo code. It is important while learning javascript, and these missions involved a lot of pseudo coding. It was helpful to write out a plan in pseudo code. I feel it saved time because more time is spent on solving the actual problem rather than the  syntax. I was also confused what the code meant at first, but after a few missions it became more clear what the actual commands meant. 
+This exercise was helpful to learn pseudo code. It is important while learning javascript, <br>
+and these missions involved a lot of pseudo coding. It was helpful to write out a plan in pseudo code. <br>
+I feel it saved time because more time is spent on solving the actual problem rather than the  syntax. <br>
+I was also confused what the code meant at first, but after a few missions it became more clear what the<br>
+actual commands meant. 
 */
