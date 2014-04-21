@@ -171,11 +171,13 @@ var win_lose = function() {
 
 
 // Reflection
-// 
-// 
-// 
-// 
-// 
-// 
-// 
-// 
+/*
+I worked on this challenge with another person using stypi. I am glad that I did, because I attempted this 
+challenge before finishing the other exercises. During the challenge, I was the initial driver when writing
+the pseudo code, and then switched to navigator during the code writing and refactoring. I was confused at
+first when trying to understand how to make my own code combat mission, but it became more clear when taking 
+it step by step. The mission that we built was pretty simple, and it was interesting to see how complicated 
+it could be for such an easy mission. I am not as confident with this mission as much as I am with other missions,
+but I understand the basic idea of creating the base for this program to run. I imagine this will be important for
+future programs in javascript and even ruby. 
+*/
