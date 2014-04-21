@@ -32,7 +32,14 @@
 
 //Reflection:
 /*
-
+I worked on this exercise with my group using stypi. I did this test out of order, and it was my first 
+introduction to test driven development. I was confused about how the tests worked, but quickly learned 
+why they were implemented. My role in this exercise was writing pseudo code. I was able to perform in this
+role pretty well. I was able to understand the tests due to the experience I had learned from the phase
+0 prep in ruby, since the tests in those exercises were pretty similar. Since it was only pseudo code, 
+I did not need to understand the specific syntax for javascript in order to write. I was very interested 
+in the test driven development. It was an amazing way to make sure the code performs exactly as needed.
+I could see where some situations could get out of hand and unorganized without it. 
 */
 
 
